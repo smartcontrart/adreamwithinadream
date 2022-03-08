@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@manifoldxyz/creator-core-solidity": "^1.0.4",
+    "@manifoldxyz/royalty-registry-solidity": "^1.0.7",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "dotenv": "^16.0.0"
+  }
+}

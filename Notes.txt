@@ -1,0 +1,9 @@
+        _uris=["https://arweave.net/2yFUjABVudX-ssVU5bg4AmyKbv5ObqiR_6fQvo_5MIo","https://arweave.net/3oAogqKPt_XpG8Ypa6hxtTk9kLzdMjXwFDIKGSHzn5Q", "https://arweave.net/d6xFqy8rvBG8OTwRx-YMweLT2fW4UEZeS5Wvu5jYFEw","https://arweave.net/WOGdjodI3ctmKwZ6K_aHGBxukBlM90Pg9boXCzYAKmw","https://arweave.net/TfUV13SpvreIo5oY9SNAkmayQl1YYbj62Q965yTt_NQ"];
+            _tokensWhitelisted[0x66806e42191E65968Cd520D2615566E24368Ef12]=2;
+            _tokensWhitelisted[0xbAEA60816E826B3cba34ecCd5141eB487Dbb2dF0]=1;
+            _tokensWhitelisted[0x29568DC1214e2022c215Fdc2E78f1221fceEE152]=4;
+            _tokensWhitelisted[0x38f4445c144928231E6C6a8ba387f7d5a6cbb89c]=2;
+
+        WLAddresses = ["0x66806e42191E65968Cd520D2615566E24368Ef12","0xbAEA60816E826B3cba34ecCd5141eB487Dbb2dF0","0x29568DC1214e2022c215Fdc2E78f1221fceEE152","0x38f4445c144928231E6C6a8ba387f7d5a6cbb89c"]
+
+        WLquantities = [2,1,4,2]
